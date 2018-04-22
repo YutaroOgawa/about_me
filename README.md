@@ -26,22 +26,24 @@
 ## その他活動
 - マイナビ出版のITサイトManateeにて連載
 
-作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで
+　　作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで
 
-https://book.mynavi.jp/manatee/series/detail/id=87626
+　　https://book.mynavi.jp/manatee/series/detail/id=87626
 
 - ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師
 
-http://ailab.dwango.co.jp/nico2ai/nico2ai.html
+　　http://ailab.dwango.co.jp/nico2ai/nico2ai.html
 
 - 「SoftWare Design」18年4月号にて「機械学習特集」の記事執筆
 
-第1特集 機械学習の始め方 第4章：本格的にPythonライブラリを使おう scikit-learn入門と機械学習の勉強方法
+　　第1特集 機械学習の始め方 第4章：本格的にPythonライブラリを使おう scikit-learn入門と機械学習の勉強方法
 
-http://gihyo.jp/magazine/SD/archive/2018/201804
+　　http://gihyo.jp/magazine/SD/archive/2018/201804
 
 - 「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）
 
-http://gihyo.jp/magazine/SD/
+　　http://gihyo.jp/magazine/SD/
 
 - 脳科学若手の会 代表 2012年度
+　　
+　　http://brainsci.jp/

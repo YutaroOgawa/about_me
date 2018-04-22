@@ -45,5 +45,7 @@
 　　http://gihyo.jp/magazine/SD/
 
 - 脳科学若手の会 代表 2012年度
-　　
+
 　　http://brainsci.jp/
+
+  

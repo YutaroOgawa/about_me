@@ -23,7 +23,7 @@
 
 - Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction. Journal of computational neuroscience, 42(3), 231-243.
 
-## その他活動
+### その他活動
 - マイナビ出版のITサイトManateeにて連載
 
 　　作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで

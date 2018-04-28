@@ -23,10 +23,14 @@
 
 - Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction. Journal of computational neuroscience, 42(3), 231-243.
 
-### その他活動
-- マイナビ出版のITサイトManateeにて連載
+### Qiita
+- すぐる@sugulu
 
-　　作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで
+https://qiita.com/sugulu
+
+
+### その他活動
+- マイナビ出版のITサイトManateeにて連載「作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで」
 
 　　https://book.mynavi.jp/manatee/series/detail/id=87626
 
@@ -34,9 +38,7 @@
 
 　　http://ailab.dwango.co.jp/nico2ai/nico2ai.html
 
-- 「SoftWare Design」18年4月号にて「機械学習特集」の記事執筆
-
-　　第1特集 機械学習の始め方 第4章：本格的にPythonライブラリを使おう scikit-learn入門と機械学習の勉強方法
+- 「SoftWare Design」18年4月号にて「特集 機械学習の始め方」の第4章を寄稿
 
 　　http://gihyo.jp/magazine/SD/archive/2018/201804
 

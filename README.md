@@ -26,7 +26,7 @@
 ### Qiita
 - すぐる@sugulu
 
-https://qiita.com/sugulu
+　　https://qiita.com/sugulu
 
 
 ### その他活動

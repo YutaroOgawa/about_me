@@ -18,6 +18,9 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師](http://ailab.dwango.co.jp/nico2ai/nico2ai.html)
 
+- [【外部委員】日本ディープラーニング協会　委員](http://www.jdla.org/)
+
+
 ### Qiita
 - [すぐる@sugulu](https://qiita.com/sugulu)
 　

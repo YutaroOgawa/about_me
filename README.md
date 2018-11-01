@@ -16,7 +16,7 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - [【連載】「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/)
 
-- [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師](http://ailab.dwango.co.jp/nico2ai/nico2ai.html)
+- [【教育】早稲田大学・講義「イノベーションとテクノロジー実践アルファ」にて「AI・機械学習のビジネス事例と継続的・効果的に機械学習プロジェクトを生み出す方法」_181024](https://www.facebook.com/media/set/?set=a.969840696559701&type=3)
 
 - [【外部委員】日本ディープラーニング協会　委員](http://www.jdla.org/)
 
@@ -53,4 +53,4 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - [脳科学若手の会 代表 2012年度](http://brainsci.jp/)
 
-  
+- [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師_2018年1月](http://ailab.dwango.co.jp/nico2ai/nico2ai.html)

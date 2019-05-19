@@ -59,3 +59,5 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 - [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師_2018年1月](http://nico2.ai/ml-handson/)
 
 - [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI・人工知能の概要とビジネス事例の紹介」_2018年11月](http://joho.u-gakugei.ac.jp/e/lecture/)
+
+- [高専ロボコン 05年第18回大会「大運動会」：Curvilinear（カーヴェリニアー）。近畿地区大会優勝、全国大会出場]（http://www.akashi.ac.jp/alumni/wp-content/uploads/sites/8/2014/03/alm_com7.pdf）

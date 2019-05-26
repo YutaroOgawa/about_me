@@ -21,7 +21,7 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 https://www.amazon.co.jp/dp/4839965625/
 
 
-- [【連載】「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/)
+- [【連載】「SoftWare Design」18年5月号～12月号「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/)
 
 - [【教育】早稲田大学・講義「イノベーションとテクノロジー実践アルファ」にて「AI・機械学習のビジネス事例と継続的・効果的に機械学習プロジェクトを生み出す方法」_181024](https://www.facebook.com/media/set/?set=a.969840696559701&type=3)
 

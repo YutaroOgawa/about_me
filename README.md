@@ -14,9 +14,9 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - [【出版】つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング](https://www.amazon.co.jp/%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6-%E6%B7%B1%E5%B1%A4%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-PyTorch%E3%81%AB%E3%82%88%E3%82%8B%E5%AE%9F%E8%B7%B5%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%9B%BB%E9%80%9A%E5%9B%BD%E9%9A%9B%E6%83%85%E5%A0%B1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E9%9B%84%E5%A4%AA%E9%83%8E/dp/4839965625/ref=sr_1_1?s=books&ie=UTF8&qid=1528591901&sr=1-1&keywords=%E6%B7%B1%E5%B1%A4%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92)
 
-<img src="./book.jpg" alt="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" title="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング">
-
 - [【寄稿】「SoftWare Design」18年4月号にて「特集 機械学習の始め方」の第4章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804)
+
+<img src="./books.png" alt="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" title="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング">
 
 - [【連載】「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/)
 

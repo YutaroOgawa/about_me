@@ -1,5 +1,5 @@
 ### 氏名
-小川雄太郎[（LinkedIn）](https://www.linkedin.com/in/yutaroogawa/){:target="_blank"}
+小川雄太郎[（LinkedIn）](https://www.linkedin.com/in/yutaroogawa/)
 
 ### 業務
 SIerの技術本部・開発技術部に所属。ディープラーニングをはじめとした機械学習関連技術の研究開発・技術支援、ならびに社内の働き方改革に伴うHRデータ解析を業務とする。
@@ -10,23 +10,23 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 
 ### 最近の外部活動
-- [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AIビジネスクリエーション（ISID連携）」を担当](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a){:target="_blank"}
+- [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AIビジネスクリエーション（ISID連携）」を担当](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)
 
-- [【出版】つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング](https://www.amazon.co.jp//dp/4839965625/){:target="_blank"}
+- [【出版】つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング](https://www.amazon.co.jp//dp/4839965625/)
 
-- [【寄稿】「SoftWare Design」18年4月号にて「特集 機械学習の始め方」の第4章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804){:target="_blank"}
+- [【寄稿】「SoftWare Design」18年4月号にて「特集 機械学習の始め方」の第4章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804)
 
 <img src="./books.png" alt="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" title="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" width=50%>
 
-- [【連載】「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/){:target="_blank"}
+- [【連載】「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/)
 
-- [【教育】早稲田大学・講義「イノベーションとテクノロジー実践アルファ」にて「AI・機械学習のビジネス事例と継続的・効果的に機械学習プロジェクトを生み出す方法」_181024](https://www.facebook.com/media/set/?set=a.969840696559701&type=3){:target="_blank"}
+- [【教育】早稲田大学・講義「イノベーションとテクノロジー実践アルファ」にて「AI・機械学習のビジネス事例と継続的・効果的に機械学習プロジェクトを生み出す方法」_181024](https://www.facebook.com/media/set/?set=a.969840696559701&type=3)
 
-- [【外部委員】日本ディープラーニング協会　委員](http://www.jdla.org/){:target="_blank"}
+- [【外部委員】日本ディープラーニング協会　委員](http://www.jdla.org/)
 
 
 ### Qiita
-- [すぐる@sugulu](https://qiita.com/sugulu){:target="_blank"}
+- [すぐる@sugulu](https://qiita.com/sugulu)
 　
 
 ### 経歴
@@ -51,18 +51,18 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction. Journal of computational neuroscience, 42(3), 231-243.
 
-[研究業績一覧はこちら](./research_cv.md){:target="_blank"}
+[研究業績一覧はこちら](./research_cv.md)
 
 
 ### その他活動
 
 
-- [マイナビ出版のITサイトManateeにて連載「作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで」](https://book.mynavi.jp/manatee/series/detail/id=87626){:target="_blank"}
+- [マイナビ出版のITサイトManateeにて連載「作りながら学ぶ強化学習 -初歩からPyTorchによる深層強化学習まで」](https://book.mynavi.jp/manatee/series/detail/id=87626)
 
-- [脳科学若手の会 代表 2012年度](http://brainsci.jp/){:target="_blank"}
+- [脳科学若手の会 代表 2012年度](http://brainsci.jp/)
 
-- [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師_2018年1月](http://nico2.ai/ml-handson/){:target="_blank"}
+- [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコAIスクール第3、4回講師_2018年1月](http://nico2.ai/ml-handson/)
 
-- [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI・人工知能の概要とビジネス事例の紹介」_2018年11月](http://joho.u-gakugei.ac.jp/e/lecture/){:target="_blank"}
+- [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI・人工知能の概要とビジネス事例の紹介」_2018年11月](http://joho.u-gakugei.ac.jp/e/lecture/)
 
-- [高専ロボコン 05年第18回大会「大運動会」：Curvilinear（カーヴェリニアー）。近畿地区大会優勝、全国大会出場](http://www.akashi.ac.jp/alumni/wp-content/uploads/sites/8/2014/03/alm_com7.pdf){:target="_blank"}
+- [高専ロボコン 05年第18回大会「大運動会」：Curvilinear（カーヴェリニアー）。近畿地区大会優勝、全国大会出場](http://www.akashi.ac.jp/alumni/wp-content/uploads/sites/8/2014/03/alm_com7.pdf)

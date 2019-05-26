@@ -44,6 +44,9 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 について研究を行ってきました。
 
+[研究業績一覧はこちら](./research_cv.md)
+
+
 #### 代表論文
 - Ogawa, Y., Kotani, K., & Jimbo, Y. (2014). Relationship between working memory performance and neural activation measured using near‐infrared spectroscopy. Brain and behavior, 4(4), 544-551.
 

@@ -1,13 +1,21 @@
 
+### 経歴
 
-- 2002年4月 - 2007年3月: 明石工業高等専門学校　電子情報工学科　卒業
-- 2007年4月 - 2010年3月: 東京大学工学部　精密工学科　卒業
-- 2010年4月 - 2012年3月: 東京大学大学院　新領域創成科学研究科　修士課程　修了
-- 2012年4月 - 2016年3月: 東京大学大学院　新領域創成科学研究科　博士課程　卒業
-- 日本学術振興会特別研究員DC1
-- 2016年 博士号（科学）取得（[神保・小谷研究室](http://neuron.t.u-tokyo.ac.jp/)）
-- 2016年4月 - 2017年3月：東京大学　先端科学技術研究センター　特任研究員
-- 2017年4月 - 現在：都内SIerにて機械学習・データサイエンス関連の研究開発職
+2002年4月 - 2007年3月: 明石工業高等専門学校　電子情報工学科　卒業
+
+2007年4月 - 2010年3月: 東京大学工学部　精密工学科　卒業
+
+2010年4月 - 2012年3月: 東京大学大学院　新領域創成科学研究科　修士課程　修了
+
+2012年4月 - 2016年3月: 東京大学大学院　新領域創成科学研究科　博士課程　卒業
+
+日本学術振興会特別研究員DC1
+
+2016年 博士号（科学）取得（[神保・小谷研究室](http://neuron.t.u-tokyo.ac.jp/)）
+
+2016年4月 - 2017年3月：東京大学　先端科学技術研究センター　特任研究員
+
+2017年4月 - 現在：都内SIerにて機械学習・データサイエンス関連の研究開発職
     
 
 ### 2018年までの研究業績
@@ -17,6 +25,7 @@
 - 【博士論文】「ワーキングメモリ課題に伴う神経細胞集団の活動メカニズム解明に向けた基礎的研究」2016.3 東京大学新領域創成科学研究科
  
 -  [筆頭論文]
+
 [1] Yutaro Ogawa, Ikuhiro Yamaguchi, Kiyoshi Kotani, Yasuhiko Jimbo, "Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction", Journal of Computational Neuroscience, Vol. 42, No. 3. 2017.6.[被引用数0]
 https://doi.org/10.1007/s10827-017-0638-8
 
@@ -37,6 +46,7 @@ https://doi.org/10.1541/ieejeiss.131.1403
 https://doi.org/10.1541/ieejeiss.131.64
 
 - [共著論文]
+
 [7] Akao A., Ogawa Y., Jimbo Y., Ermentrout B., Kotani K.Relationship between the mechanisms of gamma rhythm generation and the magnitude of the macroscopic phase response function in a population of excitatory and inhibitory modified quadratic integrate-and-fire neurons, Phys. Rev. E 97, 012209,2018 01.）
 https://doi.org/10.1103/PhysRevE.97.012209
 
@@ -79,6 +89,7 @@ https://doi.org/10.1541/ieejeiss.132.96
 https://doi.org/10.1541/ieejeiss.131.140
 
 - [筆頭・国際学会]
+
 [1]（国際学会・査読付）Y. Ogawa, K. Kotani, Y. Jimbo: An Analysis of Neural Activations Measured with the Near Infrared Spectroscopy during Working Memory Tasks, SCIS-ISIS 2012, pp. 1005-1008, Kobe, Japan, November, 2012. (oral presentation) （英語）
 
 [2]（国際学会・査読付）Y. Ogawa, I. Ymaguchi, H. Nakao, Y. Jimbo, K. Kotani: Phase Reduction for Analyzing Collective Rhythms of Delay-Induced Oscillations, SIAM Conference on Applications of Dynamical Systems (DS11), pp. 235, Salt Lake City, America, May, 2011.  (poster presentation) （英語）

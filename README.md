@@ -16,9 +16,9 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - [【寄稿】「SoftWare Design」18年4月号にて「特集 機械学習の始め方」の第4章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804)
 
-[![Alt text](https://assets.tumblr.com/images/default_avatar_64.png)](http://tumblr.com)
+<img src="./books.png" alt="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" title="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" width=50%>
 
-<img src="./books.png" alt="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" title="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" width=50%>(https://www.amazon.co.jp/dp/4839965625/)
+https://www.amazon.co.jp/dp/4839965625/
 
 
 - [【連載】「SoftWare Design」18年5月号より「scikit-learnで学ぶ機械学習アルゴリズム」の記事連載中（共同執筆）](http://gihyo.jp/magazine/SD/)
@@ -54,7 +54,7 @@ SIerの技術本部・開発技術部に所属。ディープラーニングを�
 
 - Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction. Journal of computational neuroscience, 42(3), 231-243.
 
-[研究業績一覧はこちら](./research_cv.md)
+- [研究業績一覧はこちら](./research_cv.md)
 
 
 ### その他活動

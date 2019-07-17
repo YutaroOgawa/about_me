@@ -15,7 +15,7 @@ SIerのAIテクノロジー部に所属。ディープラーニングをはじ�
 
 - [【出版】つくりながら学ぶ! PyTorchによる発展ディープラーニング（19年7月）](https://www.amazon.co.jp/dp/4839970254/)
 
-- [【学会発表】人工知能学会2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19年6月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced/)
+- [【学会発表】人工知能学会2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19年6月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
 - [【外部委員】日本ディープラーニング協会 委員（18年～）](http://www.jdla.org/)
 

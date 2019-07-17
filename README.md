@@ -18,30 +18,19 @@ SIerのAIテクノロジー部に所属。ディープラーニングをはじ�
 
 ### 最近の対外活動
 
-- [【出版】つくりながら学ぶ! PyTorchによる発展ディープラーニング](https://www.amazon.co.jp/dp/4839970254/)
+<img src="./books.png" alt="出版物" title="出版物" width=50%>
 
-<img src="./book_pytorch_advanced.jpg" alt="つくりながら学ぶ! PyTorchによる発展ディープラーニング" title="つくりながら学ぶ! PyTorchによる発展ディープラーニング" width=50%>
+- [【出版】つくりながら学ぶ! PyTorchによる発展ディープラーニング（19年7月）](https://www.amazon.co.jp/dp/4839970254/)
 
-https://www.amazon.co.jp/dp/4839970254/
+- [【学会発表】人工知能学会2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19年6月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced/)
 
-- [【学会発表】人工知能学会2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced/)
+- [【外部委員】日本ディープラーニング協会 委員（18年～）](http://www.jdla.org/)
 
-- [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AIビジネスクリエーション」を担当](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)
+- [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AIビジネスクリエーション」を担当（19年）](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)
 
-- [【外部委員】日本ディープラーニング協会　委員](http://www.jdla.org/)
+- [【出版】つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング（18年6月）](https://www.amazon.co.jp/dp/4839965625/)
 
-- [【出版】つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング](https://www.amazon.co.jp/dp/4839965625/)
-
-<img src="./books.png" alt="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" title="つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング" width=50%>
-
-https://www.amazon.co.jp/dp/4839965625/
-
-- [【連載】「SoftWare Design」18年5月号～19年1月号「scikit-learnで学ぶ機械学習アルゴリズム」の連載（共同執筆）](http://gihyo.jp/magazine/SD/)
-
-<img src="./sd_1804.PNG" alt="SoftWare Design" title="SoftWare Design「scikit-learnで学ぶ機械学習アルゴリズム」" width=50%>
-
-https://gihyo.jp/magazine/SD/archive/2018/201804
-
+- [【連載】「SoftWare Design：scikit-learnで学ぶ機械学習アルゴリズム」（共同執筆）（18年5月号～19年1月号）](http://gihyo.jp/magazine/SD/)
 
 
 ### Qiita

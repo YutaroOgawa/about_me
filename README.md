@@ -21,6 +21,8 @@ SIerのAIテクノロジー部に所属。ディープラーニングをはじ�
 
 - [【カンファレンス発表】DLLAB Engineer Days Day2: Conference](https://dllab.connpass.com/event/144647/)、[「BERTによる文書系AIの取り組みと、Azureを用いたテーブルデータの説明性実現！」（19年10月）⇒発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/bertaiazure?ref=https://dllab.connpass.com/event/144647/presentation/)
 
+- [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ISIDのビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結_研究助成金_公募の説明と想い」（19年10月）](https://www.waseda.jp/inst/cds/news/1049)
+
 - [【外部委員】日本ディープラーニング協会 委員（18年～）](http://www.jdla.org/)
 
 - [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AIビジネスクリエーション」を担当（19年）](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)

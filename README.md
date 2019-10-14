@@ -19,6 +19,8 @@ SIerのAIテクノロジー部に所属。ディープラーニングをはじ�
 
 - [【学会発表】人工知能学会2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19年6月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
+- [【カンファレンス発表】DLLAB Engineer Days Day2: Conference](https://dllab.connpass.com/event/144647/)、[「BERTによる文書系AIの取り組みと、Azureを用いたテーブルデータの説明性実現！」（19年10月）](https://www.slideshare.net/DeepLearningLab/bertaiazure?ref=https://dllab.connpass.com/event/144647/presentation/)
+
 - [【外部委員】日本ディープラーニング協会 委員（18年～）](http://www.jdla.org/)
 
 - [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AIビジネスクリエーション」を担当（19年）](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)

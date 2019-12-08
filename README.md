@@ -79,5 +79,7 @@ SIerのAIテクノロジー部に所属。ディープラーニングをはじ�
 
 - [【教育】早稲田大学・講義「イノベーションとテクノロジー実践アルファ」にて「AI・機械学習のビジネス事例と継続的・効果的に機械学習プロジェクトを生み出す方法」_18年10月](https://www.facebook.com/media/set/?set=a.969840696559701&type=3)
 
+- [【カンファレンス発表】DLLAB_interpretabilityNight](https://dllab.connpass.com/event/153453/)、[「BlackBox モデルの説明性・解釈性技術の実装」（19年10月）⇒発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/blackbox-198324328)
+
 
 

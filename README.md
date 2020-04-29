@@ -14,9 +14,11 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 ### 最近の対外活動
 
-<img src="./books.png" alt="出版物" title="出版物" width=50%>
+<img src="./books_200429.png" alt="出版物" title="出版物" width=50%>
 
 - [【出版】つくりながら学ぶ! PyTorch による発展ディープラーニング（19 年 7 月）](https://www.amazon.co.jp/dp/4839970254/)
+
+- [【出版】AI エンジニアを目指す人のための機械学習入門 実装しながらアルゴリズムの流れを学ぶ（20 年 4 月）](https://www.amazon.co.jp/dp/4297112094/)
 
 - [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 

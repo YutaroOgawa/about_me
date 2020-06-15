@@ -22,6 +22,8 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 - [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
+- [【学会発表】東京学芸大学山田、櫨山、小川。人工知能学会 2020@熊本、「OSS プロジェクトの Issue 議論内容に対する BERT および AutoML を用いた文章分類の提案」（20 年 6 月）](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-08/advanced)
+
 - [【カンファレンス発表】DLLAB Engineer Days Day2: Conference](https://dllab.connpass.com/event/144647/)、[「BERT による文書系 AI の取り組みと、Azure を用いたテーブルデータの説明性実現！」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/bertaiazure?ref=https://dllab.connpass.com/event/144647/presentation/)
 
 - [【イベント発表】TechPlay 　進化する SIer の最前線！](https://techplay.jp/event/758740)、[「AI テクノロジー部の研究開発と製品開発事例」（19 年 12 月）⇒ 当日レポートと発表スライドはこちらから](https://techplay.jp/column/910?fbclid=IwAR3Di0Wad0y2sjjnlyZHlUaa_mHzC9Cf0aSaBY6MwE_ll8tMH9rsORo7E3k)

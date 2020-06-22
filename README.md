@@ -14,7 +14,7 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 ### 最近の対外活動
 
-<img src="./books_200429.png" alt="出版物" title="出版物" width=50%>
+<img src="./books_200622.png" alt="出版物" title="出版物" width=60%>
 
 - [【出版】つくりながら学ぶ! Python による因果分析 ~因果推論・因果探索の実践入門（20 年 6 月）](https://www.amazon.co.jp/dp/4839973571/)
 

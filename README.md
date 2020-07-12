@@ -12,7 +12,7 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 その他、早稲田大学・グローバルエデュケーションセンター非常勤講師、および日本ディープラーニング協会 委員を務める。
 
-### 最近の対外活動
+### 最近の対外活動（書籍出版）
 
 <img src="./books_200622.png" alt="出版物" title="出版物" width=60%>
 
@@ -22,7 +22,13 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 * [【出版】つくりながら学ぶ! PyTorch による発展ディープラーニング（19 年 7 月）](https://www.amazon.co.jp/dp/4839970254/)
 
-- [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
+* [【出版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（18 年 6 月）](https://www.amazon.co.jp/dp/4839965625/)
+
+### 最近の対外活動（外部発表）
+
+- [【イベント発表】DLLAB 自然言語処理ナイト](https://dllab.connpass.com/event/177785/)、[「NLP ソリューション開発の最前線」（20 年 7 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/nlp-236520444)
+
+- [【イベント発表】第 46 回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/179689/)、[「SIer で自然言語処理 AI 製品をアジャイル開発した際の試行錯誤」（20 年 8 月）⇒ 発表スライドはこちらから](https://drive.google.com/file/d/1xT_o7YbfLWfSBrjSw4l3-h2uAolS9jPe/view?fbclid=IwAR3SlNzvg1kCVYZpD7IFOiBkoy9kz9RmDIkIbFGyCPw43ZpuNCCnuuaJMLM)
 
 - [【学会発表】東京学芸大学山田、櫨山、小川。人工知能学会 2020@熊本、「OSS プロジェクトの Issue 議論内容に対する BERT および AutoML を用いた文章分類の提案」（20 年 6 月）](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-08/advanced)
 
@@ -32,13 +38,15 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 * [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
 
-* [【外部委員】日本ディープラーニング協会 委員（18 年～）](http://www.jdla.org/)
+- [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
-* [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AI ビジネスクリエーション」を担当（19 年）](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)
+### 最近の対外活動（その他）
 
-* [【出版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（18 年 6 月）](https://www.amazon.co.jp/dp/4839965625/)
+- [【外部委員】日本ディープラーニング協会 委員（18 年～）](http://www.jdla.org/)
 
-* [【連載】「SoftWare Design：scikit-learn で学ぶ機械学習アルゴリズム」（共同執筆）（18 年 5 月号～ 19 年 1 月号）](https://gihyo.jp/magazine/SD/backnumber)
+- [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AI ビジネスクリエーション」を担当（19 年）](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)
+
+- [【連載】「SoftWare Design：scikit-learn で学ぶ機械学習アルゴリズム」（共同執筆）（18 年 5 月号～ 19 年 1 月号）](https://gihyo.jp/magazine/SD/backnumber)
 
 ### Qiita
 

@@ -36,9 +36,11 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 - [【イベント発表】TechPlay 　進化する SIer の最前線！](https://techplay.jp/event/758740)、[「AI テクノロジー部の研究開発と製品開発事例」（19 年 12 月）⇒ 当日レポートと発表スライドはこちらから](https://techplay.jp/column/910?fbclid=IwAR3Di0Wad0y2sjjnlyZHlUaa_mHzC9Cf0aSaBY6MwE_ll8tMH9rsORo7E3k)
 
-* [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
+* [【カンファレンス発表】DLLAB_interpretabilityNight](https://dllab.connpass.com/event/153453/)、[「BlackBox モデルの説明性・解釈性技術の実装」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/blackbox-198324328)
 
-- [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
+- [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
+
+* [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
 ### 最近の対外活動（その他）
 
@@ -95,5 +97,3 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 - [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI・人工知能の概要とビジネス事例の紹介」\_2018 年 11 月](http://joho.u-gakugei.ac.jp/e/lecture/)
 
 - [【教育】早稲田大学・講義「イノベーションとテクノロジー実践アルファ」にて「AI・機械学習のビジネス事例と継続的・効果的に機械学習プロジェクトを生み出す方法」\_18 年 10 月](https://www.facebook.com/media/set/?set=a.969840696559701&type=3)
-
-- [【カンファレンス発表】DLLAB_interpretabilityNight](https://dllab.connpass.com/event/153453/)、[「BlackBox モデルの説明性・解釈性技術の実装」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/blackbox-198324328)

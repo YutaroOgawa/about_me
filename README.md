@@ -20,27 +20,31 @@ SIer の AI テクノロジー部に所属。ディープラーニングをは�
 
 - [【出版】AI エンジニアを目指す人のための機械学習入門 実装しながらアルゴリズムの流れを学ぶ（20 年 4 月）](https://www.amazon.co.jp/dp/4297112094/)
 
-* [【出版】つくりながら学ぶ! PyTorch による発展ディープラーニング（19 年 7 月）](https://www.amazon.co.jp/dp/4839970254/)
+- [【出版】つくりながら学ぶ! PyTorch による発展ディープラーニング（19 年 7 月）](https://www.amazon.co.jp/dp/4839970254/)
 
-* [【出版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（18 年 6 月）](https://www.amazon.co.jp/dp/4839965625/)
+- [【出版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（18 年 6 月）](https://www.amazon.co.jp/dp/4839965625/)
+
+- [【翻訳版出版：中国本土向け\_簡体字版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（20 年 4 月）](https://www.amazon.cn/dp/B0876L9XWZ/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E&qid=1596525672&sr=8-1)
 
 ### 最近の対外活動（外部発表）
 
-- [【イベント発表】DLLAB 自然言語処理ナイト](https://dllab.connpass.com/event/177785/)、[「NLP ソリューション開発の最前線」（20 年 7 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/nlp-236520444)
+- [【イベント発表】Deep Learning Digital Conference(DLL3 周年と CDLE との初･合同記念イベント)](https://dllab.connpass.com/event/178714/)、[「AI・ディープラーニングを駆使して、「G 検定合格者アンケートのフリーコメント欄」を分析してみた」（20 年 8 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/track43-aig)
 
-- [【イベント発表】第 46 回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/179689/)、[「SIer で自然言語処理 AI 製品をアジャイル開発した際の試行錯誤」（20 年 8 月）⇒ 発表スライドはこちらから](https://drive.google.com/file/d/1xT_o7YbfLWfSBrjSw4l3-h2uAolS9jPe/view?fbclid=IwAR3SlNzvg1kCVYZpD7IFOiBkoy9kz9RmDIkIbFGyCPw43ZpuNCCnuuaJMLM)
+* [【イベント発表】DLLAB 自然言語処理ナイト](https://dllab.connpass.com/event/177785/)、[「NLP ソリューション開発の最前線」（20 年 7 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/nlp-236520444)
 
-- [【学会発表】東京学芸大学山田、櫨山、小川。人工知能学会 2020@熊本、「OSS プロジェクトの Issue 議論内容に対する BERT および AutoML を用いた文章分類の提案」（20 年 6 月）](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-08/advanced)
+* [【イベント発表】第 46 回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/179689/)、[「SIer で自然言語処理 AI 製品をアジャイル開発した際の試行錯誤」（20 年 8 月）⇒ 発表スライドはこちらから](https://drive.google.com/file/d/1xT_o7YbfLWfSBrjSw4l3-h2uAolS9jPe/view?fbclid=IwAR3SlNzvg1kCVYZpD7IFOiBkoy9kz9RmDIkIbFGyCPw43ZpuNCCnuuaJMLM)
 
-- [【カンファレンス発表】DLLAB Engineer Days Day2: Conference](https://dllab.connpass.com/event/144647/)、[「BERT による文書系 AI の取り組みと、Azure を用いたテーブルデータの説明性実現！」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/bertaiazure?ref=https://dllab.connpass.com/event/144647/presentation/)
+* [【学会発表】東京学芸大学山田、櫨山、小川。人工知能学会 2020@熊本、「OSS プロジェクトの Issue 議論内容に対する BERT および AutoML を用いた文章分類の提案」（20 年 6 月）](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-08/advanced)
 
-- [【イベント発表】TechPlay 　進化する SIer の最前線！](https://techplay.jp/event/758740)、[「AI テクノロジー部の研究開発と製品開発事例」（19 年 12 月）⇒ 当日レポートと発表スライドはこちらから](https://techplay.jp/column/910?fbclid=IwAR3Di0Wad0y2sjjnlyZHlUaa_mHzC9Cf0aSaBY6MwE_ll8tMH9rsORo7E3k)
+* [【カンファレンス発表】DLLAB Engineer Days Day2: Conference](https://dllab.connpass.com/event/144647/)、[「BERT による文書系 AI の取り組みと、Azure を用いたテーブルデータの説明性実現！」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/bertaiazure?ref=https://dllab.connpass.com/event/144647/presentation/)
 
-* [【カンファレンス発表】DLLAB_interpretabilityNight](https://dllab.connpass.com/event/153453/)、[「BlackBox モデルの説明性・解釈性技術の実装」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/blackbox-198324328)
+* [【イベント発表】TechPlay 　進化する SIer の最前線！](https://techplay.jp/event/758740)、[「AI テクノロジー部の研究開発と製品開発事例」（19 年 12 月）⇒ 当日レポートと発表スライドはこちらから](https://techplay.jp/column/910?fbclid=IwAR3Di0Wad0y2sjjnlyZHlUaa_mHzC9Cf0aSaBY6MwE_ll8tMH9rsORo7E3k)
 
-- [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
+- [【カンファレンス発表】DLLAB_interpretabilityNight](https://dllab.connpass.com/event/153453/)、[「BlackBox モデルの説明性・解釈性技術の実装」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/blackbox-198324328)
 
-* [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
+* [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
+
+- [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
 ### 最近の対外活動（その他）
 

@@ -1,5 +1,7 @@
 ### 氏名
 
+<img src="./my_photo.jpg" alt="写真" title="写真" width=50%>
+
 小川雄太郎[（LinkedIn はこちらから）](https://www.linkedin.com/in/yutaroogawa/)
 
 ### 業務

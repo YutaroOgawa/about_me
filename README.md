@@ -4,6 +4,8 @@
 
 小川雄太郎[（LinkedIn はこちらから）](https://www.linkedin.com/in/yutaroogawa/)
 
+[（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
+
 ### 業務
 
 SIer の AI テクノロジー部に所属。ディープラーニングをはじめとした機械学習関連技術の研究開発、教育、コンサルティング、受託案件、アジャイルでのソフトウェア開発を業務とする。

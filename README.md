@@ -1,8 +1,8 @@
-### 氏名
+### 氏名：小川雄太郎
 
 <img src="./my_photo.jpg" alt="写真" title="写真" width=50%>
 
-小川雄太郎[（LinkedIn はこちらから）](https://www.linkedin.com/in/yutaroogawa/)
+[（LinkedIn はこちらから）](https://www.linkedin.com/in/yutaroogawa/)
 
 [（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
 

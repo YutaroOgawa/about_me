@@ -27,7 +27,7 @@
 
 <img src="./books_200622.png" alt="出版物" title="出版物" width=60%>
 
-- [【寄稿】PyTorch 公式：PyTorch を用いたディープラーニング実装の学習方法（20 年 8 月）](https://bit.ly/learn-pytorch-in-japanese-part1)
+- [【寄稿】PyTorch 公式：PyTorch を用いたディープラーニング実装の学習方法 Part 1 ～ Part 3（20 年 8 月）](https://bit.ly/learn-pytorch-in-japanese-part1)
 
 - [【出版】つくりながら学ぶ! Python による因果分析 ~因果推論・因果探索の実践入門（20 年 6 月）](https://www.amazon.co.jp/dp/4839973571/)
 

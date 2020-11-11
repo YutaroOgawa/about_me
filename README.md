@@ -6,10 +6,6 @@
 
 [（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
 
-### カジュアル面談
-
-そくめん君　https://sokumenkun.com/
-で、いつでもお気軽に。お待ちしております ♪
 
 ### 業務
 

@@ -6,6 +6,7 @@
 
 [（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
 
+[(slideshare はこちらから)](https://www2.slideshare.net/yutaroogawa1116)
 
 ### 業務
 
@@ -18,6 +19,10 @@
 早稲田大学・グローバルエデュケーションセンター非常勤講師、および日本ディープラーニング協会 委員も務める。
 
 また、以下に示す様々な AI 関連書籍の執筆・出版や講演活動も実施。
+
+### 直近の対外活動
+
+- [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月](http://joho.u-gakugei.ac.jp/e/lecture/)、[講義スライド](https://www2.slideshare.net/yutaroogawa1116/ai-239189590)
 
 ### 最近の対外活動（書籍出版）
 

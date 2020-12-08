@@ -6,7 +6,7 @@
 
 [（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
 
-[(slideshare はこちらから)](https://www2.slideshare.net/yutaroogawa1116)
+[（slideshare はこちらから）](https://www2.slideshare.net/yutaroogawa1116)
 
 ### 業務
 
@@ -22,7 +22,7 @@
 
 ### 直近の対外活動
 
-- [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月](http://joho.u-gakugei.ac.jp/e/lecture/)、[講義スライド](https://www2.slideshare.net/yutaroogawa1116/ai-239189590)
+- 【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月、[講義スライド](https://www2.slideshare.net/yutaroogawa1116/ai-239189590)
 
 ### 最近の対外活動（書籍出版）
 

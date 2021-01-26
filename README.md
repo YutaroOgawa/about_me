@@ -44,7 +44,7 @@
 
 ### 最近の対外活動（外部発表）
 
-- [【イベント発表】DLLAB 強化学習 Day 2021](https://dllab.connpass.com/event/198873/)、[「Azure ML 強化学習を用いた最新アルゴリズムの活用手法」, 大串, 小川,（21 年 1 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/track43-aig)
+- [【イベント発表】DLLAB 強化学習 Day 2021](https://dllab.connpass.com/event/198873/)、[「Azure ML 強化学習を用いた最新アルゴリズムの活用手法」, 大串, 小川,（21 年 1 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/azure-ml-241830292)
 
 - [【イベント発表】Deep Learning Digital Conference(DLL3 周年と CDLE との初･合同記念イベント)](https://dllab.connpass.com/event/178714/)、[「AI・ディープラーニングを駆使して、「G 検定合格者アンケートのフリーコメント欄」を分析してみた」（20 年 8 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/track43-aig)
 

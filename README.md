@@ -28,7 +28,7 @@
 
 ### 最近の対外活動（書籍出版）
 
-<img src="./books_210128.png" alt="出版物" title="出版物" width=60%>
+<img src="./books_210128.png" alt="出版物" title="出版物" width=80%>
 
 - [【出版】PyTorch 実践入門（21 年 1 月）](https://www.amazon.co.jp/dp/4839974691/)
 

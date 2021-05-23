@@ -6,7 +6,7 @@
 
 [（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
 
-[（slideshare はこちらから）](https://www2.slideshare.net/yutaroogawa1116)
+[（slideshare はこちらから）](https://www.slideshare.net/yutaroogawa1116)
 
 ### 業務
 
@@ -26,7 +26,7 @@
 
 - 【教育】経産省 JMOOC 動画講義「AI 活用人材育成講座（活用講座）～ AI は社会でどう活かされるのか？～」にて、2 講座の講師を務める（21 年 3 月）、[【業務/領域別に見る AI 活用】生産・製造　品質管理・品質向上に活用される AI](https://www.steam-library.go.jp/lecture/116)、[【業務/領域別に見る AI 活用】生産・製造　新規商品開発に活用される AI](https://www.steam-library.go.jp/lecture/117)、
 
-- 【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月、[講義スライド](https://www2.slideshare.net/yutaroogawa1116/ai-239189590)
+- 【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月、[講義スライド](https://www.slideshare.net/yutaroogawa1116/ai-239189590)
 
 <br>
 

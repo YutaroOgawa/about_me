@@ -80,7 +80,7 @@
 
 ### Qiita
 
-- [すぐる@sugulu](https://qiita.com/sugulu)
+- [すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/sugulu_Ogawa_ISID)
 
 ### 経歴
 

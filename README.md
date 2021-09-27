@@ -48,6 +48,10 @@
 
 - [【翻訳版出版：中国本土向け\_簡体字版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（20 年 4 月）](https://www.amazon.cn/dp/B0876L9XWZ/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E&qid=1596525672&sr=8-1)
 
+
+- [【翻訳版出版：韓国語版】つくりながら学ぶ! PyTorchによる発展ディープラーニング（21 年 9 月）](https://www.kyobobook.co.kr/product/detailViewKor.laf?&barcode=9791162244609#review)
+
+
 ### 最近の対外活動（外部発表）
 
 - [【イベント発表】DLLAB 強化学習 Day 2021](https://dllab.connpass.com/event/198873/)、[「Azure ML 強化学習を用いた最新アルゴリズムの活用手法」, 大串, 小川,（21 年 1 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/azure-ml-241830292)

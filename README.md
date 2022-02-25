@@ -1,28 +1,29 @@
 <br>
 
 ## 自己紹介（小川雄太郎）
+<br>
 
 <img src="./top_img_20220225.png" alt="top画像" title="top画像" width=80%>
 
 <br>
-<br>
 
-株式会社電通国際情報サービス X（クロスイノベーション）本部 [AI トランスフォーメーションセンター](https://isid-ai.jp/) 　製品開発Grリーダー。
+
+株式会社電通国際情報サービス X（クロスイノベーション）本部 AIトランスフォーメーションセンター 製品開発Grリーダー。
 
 ディープラーニングをはじめとした機械学習関連技術の研究開発、教育案件、コンサルティング・受託案件、アジャイル・スクラムでの自社ソフトウェア開発をリードしています。
-
 [[LinkedIn]](https://www.linkedin.com/in/yutaroogawa/)、[[Twitter] ](https://twitter.com/ISID_AI_team)、[[SlideShare]](https://www.slideshare.net/yutaroogawa1116)
 
+<br>
 
 ## 経歴
 明石工業高等専門学校、東京大学工学部を経て、[東京大学大学院、神保・小谷研究室](http://neuron.t.u-tokyo.ac.jp/)にて脳機能計測および計算論的神経科学の研究に従事し、2016 年博士号(科学)を取得。東京大学特任研究員を経て、2017 年 4 月より現職。
 
-その他、早稲田大学・グローバルエデュケーションセンター非常勤講師（2019年度～2021年度）や日本ディープラーニング協会の委員（2018年～）も務め、AI関連技術の書籍を多数出版。
+早稲田大学・グローバルエデュケーションセンター非常勤講師（2019年度～2021年度）、日本ディープラーニング協会の委員（2018年～）、Microsoft 認定トレーナー（MCT：Microsoft Certified Trainer、2022年～）も務め、AI関連技術の書籍も多数出版。
 
-- Microsoft MVP（Most Valuable Professional）【AIカテゴリー】　[[MS MVP自己紹介ページへ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)
-- Microsoft 認定トレーナー（MCT：Microsoft Certified Trainer）
-- Professional Scrum Master I（Scrum.org）
+- Microsoft MVP（Most Valuable Professional）【AIカテゴリー】　[[MS MVP小川紹介ページ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)
+- Professional Scrum Master I（Scrum.org）[[Scrum.org小川紹介ページ](https://www.scrum.org/user/979946)]
 
+<br>
 
 ### 直近の対外活動
 

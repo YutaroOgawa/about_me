@@ -11,6 +11,7 @@
 株式会社電通国際情報サービス X（クロスイノベーション）本部 AIトランスフォーメーションセンター 製品開発Grリーダー。
 
 ディープラーニングをはじめとした機械学習関連技術の研究開発、教育案件、コンサルティング・受託案件、アジャイル・スクラムでの自社ソフトウェア開発をリードしています。
+
 [[LinkedIn]](https://www.linkedin.com/in/yutaroogawa/)、[[Twitter] ](https://twitter.com/ISID_AI_team)、[[SlideShare]](https://www.slideshare.net/yutaroogawa1116)
 
 <br>
@@ -20,8 +21,8 @@
 
 早稲田大学 グローバルエデュケーションセンター非常勤講師（2019年度～2021年度）、日本ディープラーニング協会 委員（2018年～）、Microsoft 認定トレーナー（MCT：Microsoft Certified Trainer、2022年～）なども務め、AI関連技術の書籍を多数出版しています。
 
-その他、Microsoft MVP（Most Valuable Professional）【AIカテゴリー】や、アジャイル開発のスクラムマスターも担っています。
-[[MS MVP 小川紹介ページ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)、Professional Scrum Master I（Scrum.org）[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
+- Microsoft MVP（Most Valuable Professional）【AIカテゴリー】 [[MS MVP 小川紹介ページ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)
+- スクラムマスター：Scrum.org Professional Scrum Master I　[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
 
 <br>
 

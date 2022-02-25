@@ -1,24 +1,28 @@
-### 氏名：小川雄太郎
+<br>
 
-<img src="./my_photo.jpg" alt="写真" title="写真" width=50%>
+## 自己紹介（小川雄太郎）
 
-[（LinkedIn はこちらから）](https://www.linkedin.com/in/yutaroogawa/)
+<img src="./top_img_20220225.png" alt="top画像" title="top画像" width=80%>
 
-[（Twitter はこちらから）](https://twitter.com/ISID_AI_team)
+<br>
+<br>
 
-[（slideshare はこちらから）](https://www.slideshare.net/yutaroogawa1116)
+株式会社電通国際情報サービス X（クロスイノベーション）本部 [AI トランスフォーメーションセンター](https://isid-ai.jp/) 　製品開発Grリーダー。
 
-### 業務
+ディープラーニングをはじめとした機械学習関連技術の研究開発、教育案件、コンサルティング・受託案件、アジャイル・スクラムでの自社ソフトウェア開発をリードしています。
 
-株式会社電通国際情報サービス X（クロスイノベーション）本部 [AI トランスフォーメーションセンター](https://isid-ai.jp/)に所属。
+[[LinkedIn]](https://www.linkedin.com/in/yutaroogawa/)、[[Twitter] ](https://twitter.com/ISID_AI_team)、[[SlideShare]](https://www.slideshare.net/yutaroogawa1116)
 
-ディープラーニングをはじめとした機械学習関連技術の研究開発、教育、コンサルティング、受託案件、アジャイルでのソフトウェア開発を業務とする。
 
+## 経歴
 明石工業高等専門学校、東京大学工学部を経て、[東京大学大学院、神保・小谷研究室](http://neuron.t.u-tokyo.ac.jp/)にて脳機能計測および計算論的神経科学の研究に従事し、2016 年博士号(科学)を取得。東京大学特任研究員を経て、2017 年 4 月より現職。
 
-早稲田大学・グローバルエデュケーションセンター非常勤講師、および日本ディープラーニング協会 委員も務める。
+その他、早稲田大学・グローバルエデュケーションセンター非常勤講師（2019年度～2021年度）や日本ディープラーニング協会の委員（2018年～）も務め、AI関連技術の書籍を多数出版。
 
-また、以下に示す様々な AI 関連書籍の執筆・出版や講演活動も実施。
+- Microsoft MVP（Most Valuable Professional）【AIカテゴリー】　[[MS MVP自己紹介ページへ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)
+- Microsoft 認定トレーナー（MCT：Microsoft Certified Trainer）
+- Professional Scrum Master I（Scrum.org）
+
 
 ### 直近の対外活動
 

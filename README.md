@@ -21,7 +21,9 @@
 
 早稲田大学 グローバルエデュケーションセンター非常勤講師（2019年度～2021年度）、日本ディープラーニング協会 委員（2018年～）、Microsoft 認定トレーナー（MCT：Microsoft Certified Trainer、2022年～）なども務め、AI関連技術の書籍を多数出版しています。
 
-その他、Microsoft MVP（Most Valuable Professional）【AIカテゴリー】　[[MS MVP 小川紹介ページ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)、やスクラムマスター、Professional Scrum Master I（Scrum.org）[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]　も務める。
+その他、Microsoft MVP（Most Valuable Professional）【AIカテゴリー】や、アジャイル開発のスクラムマスターも担っています。
+
+[[MS MVP 小川紹介ページ]](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)、Professional Scrum Master I（Scrum.org）[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
 
 <br>
 

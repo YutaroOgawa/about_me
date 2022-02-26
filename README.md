@@ -3,7 +3,7 @@
 ## 自己紹介（小川雄太郎）
 <br>
 
-<img src="./top_img_20220225.png" alt="top画像" title="top画像" width=80%>
+<img src="./top_img_20220225.png" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
 
 <br>
 
@@ -23,10 +23,21 @@
 
 - Microsoft MVP（Most Valuable Professional）【AIカテゴリー】 [[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
 - スクラムマスター：Scrum.org Professional Scrum Master I　[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
+- 出版書籍のAmazon一覧　[[Amazon.com 小川紹介ページ](https://amzn.to/34xAwVF)]
+- Qiitaブログ [[すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/sugulu_Ogawa_ISID)]
+
 
 <br>
 
-### 直近の対外活動
+### 直近の対外活動（2022年）
+
+- 【表彰】Microsoft MVPアワード【AIカテゴリー】（22年2月）　[[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
+
+- 【表彰】Qiita表彰プログラム：10,000Contribution以上を獲得、SILVER賞（22年1月）　[表彰ページ](https://qiita.com/qiita-award/users)、 [Qiita 小川自己紹介](https://qiita.com/sugulu_Ogawa_ISID)
+
+
+<br>
+
 
 - 【事例】マイクソフトにて事例紹介のインタビュー記事掲載「Azure Machine Learning と PyTorch の活用により、テキストデータに埋もれた価値を引き出す電通国際情報サービス（ISID）（21 年 5 月）[日本語版リンク](https://customers.microsoft.com/en-us/story/862038-isid-partner-professional-services-azure-jp)、[英語版リンク](https://customers.microsoft.com/en-us/story/1360878173403369154-isid-partner-professional-services-azure-en)
 
@@ -90,9 +101,9 @@
 
 ### Qiita
 
-- [すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/sugulu_Ogawa_ISID)
+- 
 
-### 経歴
+### 略歴
 
 - 2002 年 4 月 - 2007 年 3 月: 明石工業高等専門学校 電子情報工学科 卒業
 - 2007 年 4 月 - 2010 年 3 月: 東京大学工学部 精密工学科 卒業

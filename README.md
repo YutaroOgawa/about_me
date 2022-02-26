@@ -32,13 +32,13 @@
 
 - 【表彰】Microsoft MVPアワード【AIカテゴリー】（22年2月）　[[プレスリリース](https://prtimes.jp/main/html/rd/p/000000132.000043138.html)]、[[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
 
-- 【表彰】Qiita表彰プログラム：10,000Contribution以上を獲得、SILVER賞（22年1月）　[[表彰ページ](https://qiita.com/qiita-award/users)]、 [[Qiita 小川自己紹介](https://qiita.com/sugulu_Ogawa_ISID)]
+- 【表彰】Qiita表彰プログラム：10,000Contribution以上を獲得、SILVER賞（22年1月）　[[表彰ページ](https://qiita.com/qiita-award/users)]、 [[Qiita 小川記事](https://qiita.com/sugulu_Ogawa_ISID)]
 
 
 <br>
 
 
-### 著書、寄稿
+### 書籍出版および記事寄稿
 
 <img src="./books_210128.png" alt="出版物" title="出版物" width=80%>
 
@@ -57,7 +57,9 @@
 - [【翻訳版出版：中国本土向け\_簡体字版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（20 年 4 月）](https://www.amazon.cn/dp/B0876L9XWZ/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E&qid=1596525672&sr=8-1)
 
 - [【連載】「SoftWare Design：scikit-learn で学ぶ機械学習アルゴリズム」（共同執筆）（18 年 5 月号～ 19 年 1 月号）](https://gihyo.jp/magazine/SD/backnumber)
-- 
+
+- [【連載】マイナビ出版の IT サイト Manatee にて連載「作りながら学ぶ強化学習 -初歩から PyTorch による深層強化学習まで」（18 年 1 月～ 4月）](https://book.mynavi.jp/manatee/series/detail/id=87626)
+
 - [【寄稿】PyTorch公式Medium：PyTorch を用いたディープラーニング実装の学習方法 Part 1 ～ Part 3（20 年 8 月）](https://bit.ly/learn-pytorch-in-japanese-part1)
 
 - [【寄稿】「SoftWare Design」18 年 4 月号にて「特集 機械学習の始め方」の第 4 章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804)
@@ -88,24 +90,7 @@
 
 - [【イベント発表】DLLAB_interpretabilityNight](https://dllab.connpass.com/event/153453/)、[「BlackBox モデルの説明性・解釈性技術の実装」（19 年 10 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/blackbox-198324328)
 
-
-
-
-* [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
-
-
-
-
-
-
 <br>
-
-
-
-
-* [【学会発表】東京学芸大学山田、櫨山、小川。人工知能学会 2020@熊本、「OSS プロジェクトの Issue 議論内容に対する BERT および AutoML を用いた文章分類の提案」（20 年 6 月）](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-08/advanced)
-
-- [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
 
 ### 外部委員、教育系
 
@@ -121,6 +106,20 @@
 
 - [【教育】ドワンゴ脳型汎用人工知能開発者育成ニコニコ AI スクール第 3、4 回講師\_2018 年 1 月](http://nico2.ai/ml-handson/)
 
+- [脳科学若手の会 代表 2012 年度](http://brainsci.jp/)
+
+- [東京大学工学部丁友会 代表 2008～2010年度](https://tuk.t.u-tokyo.ac.jp/)
+
+<br>
+
+### 2019年以降の学会発表系
+
+- [【学会発表】東京学芸大学山田、櫨山、小川。人工知能学会 2020@熊本、「OSS プロジェクトの Issue 議論内容に対する BERT および AutoML を用いた文章分類の提案」（20 年 6 月）](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-08/advanced)
+
+- [【カンファレンス発表】早稲田大学：データサイエンス活用の最前線 ～ ISID のビジネス事例と産学連携・研究助成の解説～、研究教育活動を積極的に連携して推進するために包括協定を締結*研究助成金*公募の説明と想い」（19 年 10 月）](https://www.waseda.jp/inst/cds/news/1049)
+
+- [【学会発表】人工知能学会 2019@新潟、「勾配ブースティング回帰木を用いた製造業流体シミュレーションの高速化手法」（19 年 6 月）](https://confit.atlas.jp/guide/event/jsai2019/session/3Q01-04/advanced)
+
 
 ### 略歴
 
@@ -133,7 +132,7 @@
 - 2017 年 4 月より：SIer の技術本部・開発技術部に所属
 - 2019 年 9 月より：同上・AI テクノロジー部に所属
 
-### 研究
+### 博士研究
 
 - ワーキングメモリに関わる脳波・脳血流の計測・解析
 - 遅延微分方程式で記述される神経集団モデルの縮約手法開発と、ワーキングメモリ活動に伴う脳波位相同期現象の解明
@@ -142,11 +141,11 @@
 
 #### 代表論文
 
-- Ogawa, Y., Kotani, K., & Jimbo, Y. (2014). Relationship between working memory performance and neural activation measured using near‐infrared spectroscopy. Brain and behavior, 4(4), 544-551.
+- Ogawa, Y., Kotani, K., & Jimbo, Y. (2014). Relationship between working memory performance and neural activation measured using near‐infrared spectroscopy. Brain and behavior, 4(4), 544-551.（被引用数32）
 
-- Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Estimating the parameters of neural mass models including time delay and nonlinearity using a particle filter: a preliminary study toward model‐based EEG analysis. IEEJ Transactions on Electrical and Electronic Engineering, 12(6), 899-906.
+- Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Estimating the parameters of neural mass models including time delay and nonlinearity using a particle filter: a preliminary study toward model‐based EEG analysis. IEEJ Transactions on Electrical and Electronic Engineering, 12(6), 899-906.（被引用数0）
 
-- Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction. Journal of computational neuroscience, 42(3), 231-243.
+- Ogawa, Y., Yamaguchi, I., Kotani, K., & Jimbo, Y. (2017). Deriving theoretical phase locking values of a coupled cortico-thalamic neural mass model using center manifold reduction. Journal of computational neuroscience, 42(3), 231-243.（被引用数1）
 
 - [研究業績一覧はこちら](./research_cv.md)
 
@@ -154,9 +153,8 @@
 
 - [高専ロボコン 05 年第 18 回大会「大運動会」：Curvilinear（カーヴェリニアー）。近畿地区大会優勝、全国大会出場](http://www.akashi.ac.jp/alumni/wp-content/uploads/sites/8/2014/03/alm_com7.pdf)
 
-- [脳科学若手の会 代表 2012 年度](http://brainsci.jp/)
 
 
-- [マイナビ出版の IT サイト Manatee にて連載「作りながら学ぶ強化学習 -初歩から PyTorch による深層強化学習まで」](https://book.mynavi.jp/manatee/series/detail/id=87626)
+
 
 

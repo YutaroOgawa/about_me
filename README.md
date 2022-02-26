@@ -23,37 +23,26 @@
 
 - Microsoft MVP（Most Valuable Professional）【AIカテゴリー】 [[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
 - スクラムマスター：Scrum.org Professional Scrum Master I　[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
-- 出版書籍のAmazon一覧　[[Amazon.com 小川紹介ページ](https://amzn.to/34xAwVF)]
 - Qiitaブログ [[すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/sugulu_Ogawa_ISID)]
-
+- 小川の出版書籍一覧　[[Amazon.com 小川紹介ページ](https://amzn.to/34xAwVF)]
 
 <br>
 
 ### 直近の対外活動（2022年）
 
-- 【表彰】Microsoft MVPアワード【AIカテゴリー】（22年2月）　[[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
+- 【表彰】Microsoft MVPアワード【AIカテゴリー】（22年2月）　[[プレスリリース](https://prtimes.jp/main/html/rd/p/000000132.000043138.html)]、[[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
 
-- 【表彰】Qiita表彰プログラム：10,000Contribution以上を獲得、SILVER賞（22年1月）　[表彰ページ](https://qiita.com/qiita-award/users)、 [Qiita 小川自己紹介](https://qiita.com/sugulu_Ogawa_ISID)
+- 【表彰】Qiita表彰プログラム：10,000Contribution以上を獲得、SILVER賞（22年1月）　[[表彰ページ](https://qiita.com/qiita-award/users)]、 [[Qiita 小川自己紹介](https://qiita.com/sugulu_Ogawa_ISID)]
 
 
 <br>
 
 
-- 【事例】マイクソフトにて事例紹介のインタビュー記事掲載「Azure Machine Learning と PyTorch の活用により、テキストデータに埋もれた価値を引き出す電通国際情報サービス（ISID）（21 年 5 月）[日本語版リンク](https://customers.microsoft.com/en-us/story/862038-isid-partner-professional-services-azure-jp)、[英語版リンク](https://customers.microsoft.com/en-us/story/1360878173403369154-isid-partner-professional-services-azure-en)
-
-- 【教育】経産省 JMOOC 動画講義「AI 活用人材育成講座（活用講座）～ AI は社会でどう活かされるのか？～」にて、2 講座の講師を務める（21 年 3 月）、[【業務/領域別に見る AI 活用】生産・製造　品質管理・品質向上に活用される AI](https://www.steam-library.go.jp/lecture/116)、[【業務/領域別に見る AI 活用】生産・製造　新規商品開発に活用される AI](https://www.steam-library.go.jp/lecture/117)、
-
-- 【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月、[講義スライド](https://www.slideshare.net/yutaroogawa1116/ai-239189590)
-
-<br>
-
-### 最近の対外活動（書籍出版）
+### 著書、寄稿
 
 <img src="./books_210128.png" alt="出版物" title="出版物" width=80%>
 
 - [【出版】PyTorch 実践入門（21 年 1 月）](https://www.amazon.co.jp/dp/4839974691/)
-
-- [【寄稿】PyTorch 公式：PyTorch を用いたディープラーニング実装の学習方法 Part 1 ～ Part 3（20 年 8 月）](https://bit.ly/learn-pytorch-in-japanese-part1)
 
 - [【出版】つくりながら学ぶ! Python による因果分析 ~因果推論・因果探索の実践入門（20 年 6 月）](https://www.amazon.co.jp/dp/4839973571/)
 
@@ -63,13 +52,36 @@
 
 - [【出版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（18 年 6 月）](https://www.amazon.co.jp/dp/4839965625/)
 
-- [【翻訳版出版：中国本土向け\_簡体字版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（20 年 4 月）](https://www.amazon.cn/dp/B0876L9XWZ/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E&qid=1596525672&sr=8-1)
-
-
 - [【翻訳版出版：韓国語版】つくりながら学ぶ! PyTorchによる発展ディープラーニング（21 年 9 月）](https://www.kyobobook.co.kr/product/detailViewKor.laf?&barcode=9791162244609#review)
 
+- [【翻訳版出版：中国本土向け\_簡体字版】つくりながら学ぶ! 深層強化学習 PyTorch による実践プログラミング（20 年 4 月）](https://www.amazon.cn/dp/B0876L9XWZ/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E&qid=1596525672&sr=8-1)
 
-### 最近の対外活動（外部発表）
+- [【寄稿】PyTorch公式Medium：PyTorch を用いたディープラーニング実装の学習方法 Part 1 ～ Part 3（20 年 8 月）](https://bit.ly/learn-pytorch-in-japanese-part1)
+
+- [【連載】「SoftWare Design：scikit-learn で学ぶ機械学習アルゴリズム」（共同執筆）（18 年 5 月号～ 19 年 1 月号）](https://gihyo.jp/magazine/SD/backnumber)
+
+- [【寄稿】「SoftWare Design」18 年 4 月号にて「特集 機械学習の始め方」の第 4 章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804)
+
+- 【事例記事】Microsoft事例紹介のインタビュー記事掲載「Azure Machine Learning と PyTorch の活用により、テキストデータに埋もれた価値を引き出す電通国際情報サービス（ISID）（21 年 5 月）[日本語版リンク](https://customers.microsoft.com/en-us/story/862038-isid-partner-professional-services-azure-jp)、[英語版リンク](https://customers.microsoft.com/en-us/story/1360878173403369154-isid-partner-professional-services-azure-en)
+
+
+<br>
+
+### 講演、外部発表
+
+
+
+
+
+
+
+
+- 【教育】経産省 JMOOC 動画講義「AI 活用人材育成講座（活用講座）～ AI は社会でどう活かされるのか？～」にて、2 講座の講師を務める（21 年 3 月）、[【業務/領域別に見る AI 活用】生産・製造　品質管理・品質向上に活用される AI](https://www.steam-library.go.jp/lecture/116)、[【業務/領域別に見る AI 活用】生産・製造　新規商品開発に活用される AI](https://www.steam-library.go.jp/lecture/117)、
+
+- 【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI 系教育ビジネスの提供状況と今後身につけるとよいスキルの紹介」\_2020 年 11 月、[講義スライド](https://www.slideshare.net/yutaroogawa1116/ai-239189590)
+
+<br>
+
 
 - [【イベント発表】DLLAB 強化学習 Day 2021](https://dllab.connpass.com/event/198873/)、[「Azure ML 強化学習を用いた最新アルゴリズムの活用手法」, 大串, 小川,（21 年 1 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/azure-ml-241830292)
 
@@ -97,11 +109,7 @@
 
 - [【教育】早稲田大学・グローバルエデュケーションセンター非常勤講師。講義「AI ビジネスクリエーション」を担当（19 年）](https://d-data.jp/curriculum/2019/biz/ai-biz_creation-a)
 
-- [【連載】「SoftWare Design：scikit-learn で学ぶ機械学習アルゴリズム」（共同執筆）（18 年 5 月号～ 19 年 1 月号）](https://gihyo.jp/magazine/SD/backnumber)
 
-### Qiita
-
-- 
 
 ### 略歴
 
@@ -141,7 +149,6 @@
 
 - [マイナビ出版の IT サイト Manatee にて連載「作りながら学ぶ強化学習 -初歩から PyTorch による深層強化学習まで」](https://book.mynavi.jp/manatee/series/detail/id=87626)
 
-- [【寄稿】「SoftWare Design」18 年 4 月号にて「特集 機械学習の始め方」の第 4 章を寄稿](http://gihyo.jp/magazine/SD/archive/2018/201804)
 
 - [【教育】東京学芸大学の「情報教育とキャリア形成」科目にて、講義「AI・人工知能の概要とビジネス事例の紹介」\_2018 年 11 月](http://joho.u-gakugei.ac.jp/e/lecture/)
 

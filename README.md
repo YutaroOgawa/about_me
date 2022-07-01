@@ -40,7 +40,9 @@
 
 ### 書籍出版および記事寄稿
 
-<img src="./books_210128.png" alt="出版物" title="出版物" width=80%>
+<img src="./books_220701.jpg" alt="出版物" title="出版物" width=80%>
+
+- [【出版】アジャイルとスクラムによる開発手法 ~Azure DevOpsによるプロフェショナルスクラムの実践（22 年 6 月）](https://www.amazon.co.jp/dp/4839978778/)
 
 - [【出版】PyTorch 実践入門（21 年 1 月）](https://www.amazon.co.jp/dp/4839974691/)
 

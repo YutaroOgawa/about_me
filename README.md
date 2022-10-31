@@ -3,7 +3,7 @@
 ## 自己紹介（小川雄太郎）
 <br>
 
-<img src="./top_img_20220225.png" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
+<img src="./top_img_20221031.png" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
 
 <br>
 

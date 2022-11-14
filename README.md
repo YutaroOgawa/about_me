@@ -3,7 +3,7 @@
 ## 自己紹介（小川雄太郎）
 <br>
 
-<img src="./top_img_20221031.png" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
+<img src="./top_img_20221114.png" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
 
 <br>
 
@@ -11,7 +11,11 @@
 
 [株式会社松尾研究所](https://matsuo-institute.com/) シニア・リサーチャー（2022年7月より現職）。
 
-「ディープラーニング × 脳・神経科学」のNeuroAIの分野にて基礎研究とビジネス化を推進中
+「ディープラーニング × 脳・神経科学」（NeuroAI）の分野にて、基礎研究とビジネス化を推進中です（詳細は以下のインタビュー記事にて）。
+
+＜業務内容のインタビュー記事＞（[前編](https://www.wantedly.com/companies/company_4744893/post_articles/447322)）（[後編](https://www.wantedly.com/companies/company_4744893/post_articles/447554)）
+
+
 
 
 [[LinkedIn](https://www.linkedin.com/in/yutaroogawa/)]、[[Twitter](https://twitter.com/ISID_AI_team)]、[[SlideShare](https://www.slideshare.net/yutaroogawa1116)]

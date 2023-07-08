@@ -3,7 +3,7 @@
 ## 自己紹介（小川雄太郎）
 <br>
 
-<img src="./top_img_20221114.png" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
+<img src="./top_img_202230708.jpg" alt="小川雄太郎_自己紹介" title="小川雄太郎_自己紹介" width=80%>
 
 <br>
 
@@ -27,9 +27,10 @@
 
 早稲田大学 グローバルエデュケーションセンター非常勤講師（2019年度～2021年度）、日本ディープラーニング協会 委員（2018年～）、Microsoft 認定トレーナー（MCT：Microsoft Certified Trainer、2022年～）なども務め、AI関連技術の書籍を多数出版しています。
 
-- Microsoft MVP（Most Valuable Professional）【AIカテゴリー】 [[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
+- Microsoft MVP（Most Valuable Professional）【AIカテゴリー】(2022年) [[MS MVP 小川紹介ページ](https://mvp.microsoft.com/ja-jp/PublicProfile/5004692)]
 - スクラムマスター（Scrum.org Professional Scrum Master I）　[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
-- Qiita技術ブログ [[すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/sugulu_Ogawa_ISID)]
+- Qiita技術ブログ [[すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/YutaroOgawa2)]
+- Qiita技術ブログ [[YutaroOgawa2）](https://qiita.com/sugulu_Ogawa_ISID)]
 - 小川の出版書籍一覧　[[Amazon.com 小川紹介ページ](https://amzn.to/34xAwVF)]
 
 <br>

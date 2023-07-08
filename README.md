@@ -30,7 +30,7 @@
 - Microsoft MVP（Most Valuable Professional）【AIカテゴリー】(2022年) ※現在はMVP ALUMNI
 - スクラムマスター（Scrum.org Professional Scrum Master I）　[[Scrum.org 小川紹介ページ](https://www.scrum.org/user/979946)]
 - Qiita技術ブログ [[すぐる（小川雄太郎@電通国際情報サービスISID）](https://qiita.com/YutaroOgawa2)]
-- Qiita技術ブログ [[YutaroOgawa2）](https://qiita.com/sugulu_Ogawa_ISID)]
+- Qiita技術ブログ [[YutaroOgawa2](https://qiita.com/sugulu_Ogawa_ISID)]
 - 小川の出版書籍一覧　[[Amazon.com 小川紹介ページ](https://amzn.to/34xAwVF)]
 
 <br>

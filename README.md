@@ -80,7 +80,7 @@
 
 ### 講演、外部発表
 
-- 【動画講義】経産省 JMOOC 動画講義「AI 活用人材育成講座（活用講座）～ AI は社会でどう活かされるのか？～」にて、2 講座の講師を務める（21 年 3 月）、[【業務/領域別に見る AI 活用】生産・製造　品質管理・品質向上に活用される AI](https://www.steam-library.go.jp/lecture/116)、[【業務/領域別に見る AI 活用】生産・製造　新規商品開発に活用される AI](https://www.steam-library.go.jp/lecture/117)、
+- 【動画講義】経産省 JMOOC 動画講義「AI 活用人材育成講座（活用講座）～ AI は社会でどう活かされるのか？～」にて、2 講座の講師を務める（21 年 3 月）、[【業務/領域別に見る AI 活用】生産・製造　品質管理・品質向上に活用される AI](https://www.steam-library.go.jp/lecture/116/)、[【業務/領域別に見る AI 活用】生産・製造　新規商品開発に活用される AI](https://www.steam-library.go.jp/lecture/117/)、
 
 - [【イベント発表】DLLAB 強化学習 Day 2021](https://dllab.connpass.com/event/198873/)、[「Azure ML 強化学習を用いた最新アルゴリズムの活用手法」, 大串, 小川,（21 年 1 月）⇒ 発表スライドはこちらから](https://www.slideshare.net/DeepLearningLab/azure-ml-241830292)
 
